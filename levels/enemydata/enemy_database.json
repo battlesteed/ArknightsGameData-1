@@ -4550,15 +4550,15 @@
             "attributes": {
               "maxHp": {
                 "m_defined": true,
-                "m_value": 30000
+                "m_value": 22000
               },
               "atk": {
                 "m_defined": true,
-                "m_value": 2200
+                "m_value": 1800
               },
               "def": {
                 "m_defined": true,
-                "m_value": 700
+                "m_value": 600
               },
               "magicResistance": {
                 "m_defined": true,
@@ -4652,15 +4652,15 @@
             "attributes": {
               "maxHp": {
                 "m_defined": true,
-                "m_value": 23000
+                "m_value": 30000
               },
               "atk": {
                 "m_defined": true,
-                "m_value": 1800
+                "m_value": 2200
               },
               "def": {
                 "m_defined": true,
-                "m_value": 800
+                "m_value": 700
               },
               "magicResistance": {
                 "m_defined": true,
@@ -4684,7 +4684,7 @@
               },
               "baseAttackTime": {
                 "m_defined": true,
-                "m_value": 4.0
+                "m_value": 6.0
               },
               "respawnTime": {
                 "m_defined": false,
