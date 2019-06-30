@@ -27040,6 +27040,33 @@
       ],
       "startTs": 1561320000,
       "endTs": 1561924799
+    },
+    "camp_g_17": {
+      "groupId": "camp_g_17",
+      "activeCamps": [
+        "camp_01",
+        "camp_02"
+      ],
+      "startTs": 1561924800,
+      "endTs": 1562529599
+    },
+    "camp_g_18": {
+      "groupId": "camp_g_18",
+      "activeCamps": [
+        "camp_01",
+        "camp_02"
+      ],
+      "startTs": 1562529600,
+      "endTs": 1563134399
+    },
+    "camp_g_19": {
+      "groupId": "camp_g_19",
+      "activeCamps": [
+        "camp_01",
+        "camp_02"
+      ],
+      "startTs": 1563134400,
+      "endTs": 1563739199
     }
   },
   "mapThemes": {
