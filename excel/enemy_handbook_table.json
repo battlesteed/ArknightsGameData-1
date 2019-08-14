@@ -1521,7 +1521,7 @@
   },
   "enemy_1505_frstar": {
     "enemyId": "enemy_1505_frstar",
-    "enemyIndex": "FS",
+    "enemyIndex": "FN",
     "enemyTags": null,
     "sortId": 92,
     "name": "霜星",
