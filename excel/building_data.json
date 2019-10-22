@@ -5717,7 +5717,7 @@
     },
     "control_mp_cost[003]": {
       "buffId": "control_mp_cost[003]",
-      "buffName": "清理委托",
+      "buffName": "清理协议",
       "buffIcon": "control",
       "buffColor": "#005752",
       "textColor": "#ffffff",
