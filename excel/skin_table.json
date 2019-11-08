@@ -8535,6 +8535,82 @@
         "obtainApproach": "线下礼包获得"
       }
     },
+    "char_134_ifrit@kfc#1": {
+      "skinId": "char_134_ifrit@kfc#1",
+      "charId": "char_134_ifrit",
+      "tokenSkinId": null,
+      "illustId": "illust_char_134_ifrit_kfc#1",
+      "avatarId": "char_134_ifrit_kfc#1",
+      "portraitId": "char_134_ifrit_kfc#1",
+      "buildingId": "char_134_ifrit_kfc#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_134_ifrit_kfc#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "儿童派对",
+        "colorList": [
+          "#ae3719",
+          "#ae3719",
+          "#313131",
+          "#ae3719",
+          "#313131"
+        ],
+        "titleList": [
+          "KFC",
+          "肯德基"
+        ],
+        "modelName": "Ifrit",
+        "drawerName": "NoriZC",
+        "skinGroupId": "2019#kfc",
+        "skinGroupName": "肯德基",
+        "skinGroupSortIndex": 9,
+        "content": "由赫默参与设计的KFC合作系列服装/儿童派对。使用莱茵生命特殊材料制成，毫无必要地拥有着相当高的防护性。",
+        "dialog": "由赫默参与设计的KFC合作系列服装/儿童派对。使用莱茵生命特殊材料制成，毫无必要地拥有着相当高的防护性。",
+        "usage": "KFC合作的服装之一。",
+        "description": "最好别让她进厨房。",
+        "obtainApproach": "活动获得"
+      }
+    },
+    "char_201_moeshd@kfc#1": {
+      "skinId": "char_201_moeshd@kfc#1",
+      "charId": "char_201_moeshd",
+      "tokenSkinId": null,
+      "illustId": "illust_char_201_moeshd_kfc#1",
+      "avatarId": "char_201_moeshd_kfc#1",
+      "portraitId": "char_201_moeshd_kfc#1",
+      "buildingId": "char_201_moeshd_kfc#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_201_moeshd_kfc#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "清晨七点",
+        "colorList": [
+          "#ae3719",
+          "#ae3719",
+          "#313131",
+          "#ae3719",
+          "#313131"
+        ],
+        "titleList": [
+          "KFC",
+          "肯德基"
+        ],
+        "modelName": "Croissant",
+        "drawerName": "幻象黑兔",
+        "skinGroupId": "2019#kfc",
+        "skinGroupName": "肯德基",
+        "skinGroupSortIndex": 9,
+        "content": "由可颂本人设计的KFC合作系列服装/清晨七点。事实上采用了配合能天使的设计，因为一次做两套比较省钱。",
+        "dialog": "由可颂本人设计的KFC合作系列服装/清晨七点。事实上采用了配合能天使的设计，因为一次做两套比较省钱。",
+        "usage": "KFC合作的服装之一。",
+        "description": "可颂当然很好吃！",
+        "obtainApproach": "线下礼包获得"
+      }
+    },
     "char_179_cgbird@witch#1": {
       "skinId": "char_179_cgbird@witch#1",
       "charId": "char_179_cgbird",
