@@ -9421,7 +9421,7 @@
     "daily_1010": {
       "id": "daily_1010",
       "sortId": 1010,
-      "description": "在使用好友助战的情况下完成任意关卡1次",
+      "description": "在使用好友助战的情况下完成任意关卡1次，不含危机合约",
       "type": "DAILY",
       "preMissionIds": null,
       "template": "StageWithAssistChar",
@@ -9818,7 +9818,7 @@
     "daily_1110": {
       "id": "daily_1110",
       "sortId": 1110,
-      "description": "在使用好友助战的情况下完成任意关卡1次",
+      "description": "在使用好友助战的情况下完成任意关卡1次，不含危机合约",
       "type": "DAILY",
       "preMissionIds": null,
       "template": "StageWithAssistChar",
@@ -10215,7 +10215,7 @@
     "daily_1210": {
       "id": "daily_1210",
       "sortId": 1210,
-      "description": "在使用好友助战的情况下完成任意关卡1次",
+      "description": "在使用好友助战的情况下完成任意关卡1次，不含危机合约",
       "type": "DAILY",
       "preMissionIds": null,
       "template": "StageWithAssistChar",
@@ -10612,7 +10612,7 @@
     "daily_1310": {
       "id": "daily_1310",
       "sortId": 1310,
-      "description": "在使用好友助战的情况下完成任意关卡1次",
+      "description": "在使用好友助战的情况下完成任意关卡1次，不含危机合约",
       "type": "DAILY",
       "preMissionIds": null,
       "template": "StageWithAssistChar",
@@ -13137,7 +13137,7 @@
     "weekly_110": {
       "id": "weekly_110",
       "sortId": 110,
-      "description": "使用好友助战干员完成任意关卡5次",
+      "description": "使用好友助战干员完成任意关卡5次，不含危机合约",
       "type": "WEEKLY",
       "preMissionIds": null,
       "template": "StageWithAssistChar",
